@@ -1,18 +1,17 @@
-# Career Portfolio
+# 📚 Career Portfolio
 
 Hello! My name is Daria.
 
 I am a fourth-year student at Samara State University of Social Sciences and Education.
 
-## About me
+I am building a career in:
 
-I am interested in:
+- ✏️ Editing
+- 🌍 Translation
+- 📄 Documentation
+- 📝 Content writing
 
-- Editing
-- Proofreading
-- Translation
-- Documentation
-- Content writing
+---
 
 ## Languages
 
@@ -20,8 +19,14 @@ I am interested in:
 - 🇬🇧 English — B2–C1
 - 🇩🇪 German — B1–B2
 
-## Portfolio
+---
 
-This repository contains examples of my work and professional materials.
+## Repository Structure
+
+📁 resume — Resume and CV
+
+📁 portfolio — Translation and editing examples
+
+---
 
 Thank you for visiting my portfolio!
